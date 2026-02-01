@@ -17,6 +17,7 @@
 number = 1
 number2 = 0
 
+
 def work():
     과목명 = input('과목명을 입력하세요:')
     학점1 = int(input('학점을 입력하세요:'))
